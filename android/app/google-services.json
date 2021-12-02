@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "255277563285",
+    "project_id": "iseneca2",
+    "storage_bucket": "iseneca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255277563285:android:bfe2c8aded21fb6246ca9c",
+        "android_client_info": {
+          "package_name": "com.example.iseneca2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255277563285-uj68tp4i8hb48soqtvlbc9q1ap97gdj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iseneca2",
+            "certificate_hash": "d1ced018008a79fb1861658a2d5b84223d921513"
+          }
+        },
+        {
+          "client_id": "255277563285-gpg999g94qgcvrifjt483fr71ape11v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHjXBUsupPapbyxD0oEZAAfwdtxNY54zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255277563285-gpg999g94qgcvrifjt483fr71ape11v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
